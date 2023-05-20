@@ -1,0 +1,4 @@
+//Update the below details and rename this file as .env to run the project
+PORT=
+MONGOOSE_URI=
+SECRET=

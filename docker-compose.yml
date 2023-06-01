@@ -3,5 +3,5 @@ services:
   web:
     build: .
     ports:
-      - "8110:8000"
+      - "8120:8000"
     restart: always
